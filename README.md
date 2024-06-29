@@ -15,6 +15,9 @@
 🔖 | reading manga and novels  
 🎲 | playing RPGs
 
+<br/>
+<br/>
+
 ## 🪡 My Skills
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVnbGprMDlnNTQwMmp5OWpsbWJsN2hzZHJ5cHFscW1tNmo0cXI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rGiAuZlE0c6SNrNQwF/200w.webp" align="left"></img>
