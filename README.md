@@ -6,22 +6,14 @@
 
 ## 📋 About Me
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlveW9memtwMGV1eXV4eTJ0dWdjdXMzM3o2MWd6NXM1M3VicnhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pjoz21be1luBPEAHHh/200w.webp" align="right"></img>
-
 📌 | working as an R&D Engineer  
 🔬 | focusing on backend, blockchain, DevOps, and microservices  
-📡 | learning cryptography, embedded systems, and quantum computing  
+📡 | learning programmable cryptography, and embedded systems  
 🎧 | listening to ambient, lo-fi and R&B music  
 🔖 | reading manga and novels  
 🎲 | playing RPGs
 
-<br/>
-<br/>
-
 ## 🪡 My Skills
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVnbGprMDlnNTQwMmp5OWpsbWJsN2hzZHJ5cHFscW1tNmo0cXI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rGiAuZlE0c6SNrNQwF/200w.webp" align="left"></img>
-<div align="right">
   
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)](https://go.dev/)
 [![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)](https://www.rust-lang.org/)
@@ -33,7 +25,6 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)](https://nodejs.org/)
 [![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)](https://ethereum.org/)
 [![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge)](https://neovim.io/)
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
 [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)](https://kubernetes.io/)
 [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)](https://www.gnu.org/software/bash/)
@@ -49,4 +40,10 @@
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://nextjs.org/)
 [![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)](https://svelte.dev/)
 
-</div>
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/tr1sm0s1n)
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/tr1sm0s1n)
