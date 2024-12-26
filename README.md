@@ -1,20 +1,18 @@
 <div align="center">
 
-# 👋🏼 Hi, I'm Mobin
+# ⚔️ 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰, 𝔗𝔯𝔞𝔳𝔢𝔩𝔢𝔯! ℑ'𝔪 𝔐𝔬𝔟𝔦𝔫 🧙🏼‍♂️
 
-</div>
+## 📜 𝔗𝔥𝔢 𝔗𝔞𝔩𝔢
 
-## 📋 About Me
+🛡️ | crafting innovations as an R&D Engineer  
+📖 | scribing spells in backend sorcery, blockchain alchemy, DevOps engineering, and the art of microservices  
+🔮 | seeking the arcane secrets of programmable cryptography and the enchanted realm of embedded systems  
+🎼 | serenading the soul with ambient, lo-fi, and R&B melodies  
+📚 | immersed in the tomes of manga and epic novels  
+🎲 | embarking on quests in role-playing games
 
-📌 | working as an R&D Engineer  
-🔬 | focusing on backend, blockchain, DevOps, and microservices  
-📡 | learning programmable cryptography, and embedded systems  
-🎧 | listening to ambient, lo-fi and R&B music  
-🔖 | reading manga and novels  
-🎲 | playing RPGs
+## 🧵 𝔗𝔥𝔢 𝔄𝔯𝔰𝔢𝔫𝔞𝔩
 
-## 🪡 My Skills
-  
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)](https://go.dev/)
 [![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)](https://www.rust-lang.org/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
@@ -40,10 +38,21 @@
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://nextjs.org/)
 [![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)](https://svelte.dev/)
 
-## 📊 GitHub Stats
+## 🗺️ 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/tr1sm0s1n)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=dracula&include_all_commits=false&count_private=true&layout=compact)](https://github.com/tr1sm0s1n)
 
-## 🏆 GitHub Trophies
+## 🏅 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/tr1sm0s1n)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=dracula&no-frame=false&margin-w=4)](https://github.com/tr1sm0s1n)
+
+---
+
+## 🖤 𝔄 𝔔𝔲𝔬𝔱𝔢 𝔱𝔬 ℜ𝔢𝔪𝔢𝔪𝔟𝔢𝔯
+
+_"If you desire one thing for so long, it’s a given that you’ll miss other things along the way. That’s how it is... that’s life."_  
+— _Berserk_ by **Kentaro Miura**
+
+<img src="https://media1.tenor.com/m/e2fIyl5q1NgAAAAC/guts-synthwave.gif"></img>
+
+</div>
