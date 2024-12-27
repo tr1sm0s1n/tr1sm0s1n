@@ -40,7 +40,8 @@
 
 ## 🗺️ 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=dracula&include_all_commits=false&count_private=true&layout=compact)](https://github.com/tr1sm0s1n)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&hide_title=true&show_icons=true&theme=dracula)](https://github.com/tr1sm0s1n)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=dracula&count_private=true&layout=compact)](https://github.com/tr1sm0s1n)
 
 ## 🏅 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰
 
@@ -52,7 +53,5 @@
 
 _"If you desire one thing for so long, it’s a given that you’ll miss other things along the way. That’s how it is... that’s life."_  
 — _Berserk_ by **Kentaro Miura**
-
-<img src="https://media1.tenor.com/m/e2fIyl5q1NgAAAAC/guts-synthwave.gif"></img>
 
 </div>
