@@ -41,12 +41,12 @@
 
 ## 🗺️ 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&hide_title=true&show_icons=true&theme=dracula)](https://github.com/tr1sm0s1n)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=dracula&count_private=true&layout=compact)](https://github.com/tr1sm0s1n)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=merko&hide_title=true&show_icons=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=merko&hide_title=true&show_icons=true&bg_color=00000000)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=merko&layout=compact&count_private=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=merko&layout=compact&count_private=true&bg_color=00000000)
 
 ## 🏅 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=dracula&no-frame=false&margin-w=4)](https://github.com/tr1sm0s1n)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)
 
 ---
 
