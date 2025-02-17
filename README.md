@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚔️ 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰, 𝔗𝔯𝔞𝔳𝔢𝔩𝔢𝔯! ℑ'𝔪 𝔐𝔬𝔟𝔦𝔫 🧙🏼‍♂️
+# <span style="color:crimson">⚔ 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰, 𝔗𝔯𝔞𝔳𝔢𝔩𝔢𝔯! ℑ'𝔪 𝔐𝔬𝔟𝔦𝔫 ⚔</span> 
 
-## 📜 𝔗𝔥𝔢 𝔗𝔞𝔩𝔢
+## <span style="color:indianred">❝  𝔗𝔥𝔢 𝔗𝔞𝔩𝔢 ❞</span>
 
 🛡️ | crafting innovations as an R&D Engineer  
 📖 | scribing spells in backend sorcery, blockchain alchemy, DevOps engineering, and the art of microservices  
@@ -11,7 +11,7 @@
 📚 | immersed in the tomes of manga and epic novels  
 🎲 | embarking on quests in role-playing games
 
-## 🧵 𝔗𝔥𝔢 𝔄𝔯𝔰𝔢𝔫𝔞𝔩
+## <span style="color:indianred">❝ 𝔗𝔥𝔢 𝔄𝔯𝔰𝔢𝔫𝔞𝔩 ❞</span>
 
 [![Go Badge](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![Rust Badge](https://skillicons.dev/icons?i=rust)](https://rust-lang.org/)
@@ -39,18 +39,18 @@
 [![VS Code Badge](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Neovim Badge](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 
-## 🗺️ 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨
+## <span style="color:indianred">❝ 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨 ❞</span>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=merko&hide_title=true&show_icons=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=merko&hide_title=true&show_icons=true&bg_color=00000000)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=merko&layout=compact&count_private=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=merko&layout=compact&count_private=true&bg_color=00000000)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=kacho_ga&hide_title=true&show_icons=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=kacho_ga&hide_title=true&show_icons=true&bg_color=00000000)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=kacho_ga&layout=compact&count_private=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=kacho_ga&layout=compact&count_private=true&bg_color=00000000)
 
-## 🏅 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰
+## <span style="color:indianred">❝ 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰 ❞</span>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=dark_lover&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=dark_lover&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)
 
 ---
 
-## 🖤 𝔄 𝔔𝔲𝔬𝔱𝔢 𝔱𝔬 ℜ𝔢𝔪𝔢𝔪𝔟𝔢𝔯
+## <span style="color:indianred">❝ 𝔄 𝔔𝔲𝔬𝔱𝔢 𝔱𝔬 ℜ𝔢𝔪𝔢𝔪𝔟𝔢𝔯 ❞</span>
 
 _"If you desire one thing for so long, it’s a given that you’ll miss other things along the way. That’s how it is... that’s life."_  
 — _Berserk_ by **Kentaro Miura**
