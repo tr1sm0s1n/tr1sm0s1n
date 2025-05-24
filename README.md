@@ -53,7 +53,7 @@
 
 ## ❝ 𝔄 𝔔𝔲𝔬𝔱𝔢 𝔱𝔬 ℜ𝔢𝔪𝔢𝔪𝔟𝔢𝔯 ❞
 
-_"If you desire one thing for so long, it’s a given that you’ll miss other things along the way. That’s how it is... that’s life."_  
-— _Berserk_ by **Kentaro Miura**
+_"Life is pain, Highness. Anyone who says differently is selling something."_  
+— _**Dread Pirate Roberts** (The Princess Bride)_
 
 </div>
