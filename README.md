@@ -45,7 +45,7 @@
 
 ## 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=oldie&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=oldie&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=oldie&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=oldie&no-bg=true&no-frame=true)
 
 ---
 
