@@ -43,10 +43,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=noctis_minimus&hide_title=true&show_icons=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=noctis_minimus&hide_title=true&show_icons=true&bg_color=00000000)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=noctis_minimus&layout=compact&count_private=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=noctis_minimus&layout=compact&count_private=true&bg_color=00000000)
 
-## 𝔗𝔥𝔢 ℜ𝔢𝔩𝔦𝔠𝔰
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=oldie&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/?username=tr1sm0s1n&theme=oldie&no-bg=true&no-frame=true)
-
 ---
 
 ## 𝔄 𝔔𝔲𝔬𝔱𝔢 𝔱𝔬 ℜ𝔢𝔪𝔢𝔪𝔟𝔢𝔯
