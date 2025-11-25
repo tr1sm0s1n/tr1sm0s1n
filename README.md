@@ -35,13 +35,12 @@
 [![React Badge](./assets//icons/react.svg)](https://react.dev/)
 [![Next.js Badge](./assets//icons/nextjs.svg)](https://nextjs.org/)
 [![Svelte Badge](./assets//icons/svelte.svg)](https://svelte.dev/)
-[![VS Code Badge](./assets//icons/vscode.svg)](https://code.visualstudio.com/)
 [![Neovim Badge](./assets//icons/neovim.svg)](https://neovim.io/)
 
-## 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨
+<!-- ## 𝔗𝔥𝔢 𝔖𝔭𝔢𝔩𝔩𝔟𝔬𝔬𝔨
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=noctis_minimus&hide_title=true&show_icons=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api?username=tr1sm0s1n&theme=noctis_minimus&hide_title=true&show_icons=true&bg_color=00000000)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=noctis_minimus&layout=compact&count_private=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=noctis_minimus&layout=compact&count_private=true&bg_color=00000000)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=noctis_minimus&layout=compact&count_private=true&bg_color=00000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=tr1sm0s1n&theme=noctis_minimus&layout=compact&count_private=true&bg_color=00000000) -->
 
 ---
 
